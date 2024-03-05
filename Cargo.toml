@@ -4,5 +4,8 @@ edition = "2021"
 
 [workspace]
 resolver = "2"
-members = ["ps88"]
+members = [
+  "ps88",
+  "ps27",
+]
 
